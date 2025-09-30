@@ -20,12 +20,8 @@ Estruturas de dados (ArrayList, List).
 
 
 Como Usar
+1.clonar o código fonte
 
-1. Clonar o repositório
-
-
-
-git clone https://github.com/SeuUsuario/CalculadoraLista.git
 
 2. Abrir o projeto
 
