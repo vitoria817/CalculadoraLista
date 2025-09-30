@@ -6,7 +6,6 @@ Ele também mantém um histórico das operações realizadas, para que você pos
 
 O projeto é ideal para quem está aprendendo:
 
-Java básico e console applications;
 
 Estruturas de repetição (while);
 
