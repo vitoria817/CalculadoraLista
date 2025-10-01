@@ -1,7 +1,7 @@
 
                              
                         
-  O CalculadoraLista é uma aplicação em Java que funciona no console e permite realizar operações básicas de matemática: adição, subtração, multiplicação e divisão.
+  O CalculadoraLista em Java funciona no console e permite realizar operações básicas de matemática: adição, subtração, multiplicação e divisão.
 Ele também mantém um histórico das operações realizadas, para que você possa consultar todos os cálculos feitos anteriormente.
 
 O projeto é ideal para quem está aprendendo:
